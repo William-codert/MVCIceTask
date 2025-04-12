@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCIceTask", "MVCIceTask\MVCIceTask.csproj", "{E4074047-49F9-4666-8DC2-752B2B3A6832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyTeamProject", "MyTeamProject", "{32719A5F-F19A-4F1A-B7DD-4B01C29C1C87}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		init.sql = init.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4074047-49F9-4666-8DC2-752B2B3A6832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4074047-49F9-4666-8DC2-752B2B3A6832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4074047-49F9-4666-8DC2-752B2B3A6832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4074047-49F9-4666-8DC2-752B2B3A6832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
